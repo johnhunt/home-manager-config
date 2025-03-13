@@ -46,6 +46,9 @@
     obsidian
     signal-desktop
     whatsapp-for-linux
+    stow
+    mysql-client
+    inetutils # telnet, ftp, hostname
     
     # # Adds the 'hello' command to your environment. It prints a friendly
     # # "Hello, world!" when run.
