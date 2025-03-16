@@ -49,6 +49,7 @@
     stow
     mysql-client
     inetutils # telnet, ftp, hostname
+    skypeforlinux
     
     # # Adds the 'hello' command to your environment. It prints a friendly
     # # "Hello, world!" when run.
