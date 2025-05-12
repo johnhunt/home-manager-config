@@ -34,6 +34,8 @@
   # The home.packages option allows you to install Nix packages into your
   # environment.
   home.packages = with pkgs; [
+    xdg-desktop-portal-gtk 
+    xdg-desktop-portal-gnome
     brave
     keepassxc
     git
@@ -49,7 +51,15 @@
     stow
     mysql-client
     inetutils # telnet, ftp, hostname
+    teams-for-linux
     skypeforlinux
+    yt-dlp
+    vlc
+    zoom-us
+    php
+    php81Packages.composer
+    cargo
+    go
     
     # # Adds the 'hello' command to your environment. It prints a friendly
     # # "Hello, world!" when run.
